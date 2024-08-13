@@ -1,0 +1,12 @@
+body {
+    background: gray;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
