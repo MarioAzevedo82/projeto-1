@@ -1,11 +1,20 @@
 h1 {
     font-size: 20px;
+    color: green
 }
 
+p {
+    font-size: 20px;
+    color: red;
+}
 a {
     text-decoration: underline;
 }
 
 strong {
     font-weight: bold;
+}
+
+body {
+    background: lightgray;
 }
